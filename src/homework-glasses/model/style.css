@@ -1,0 +1,27 @@
+.model{
+  height: 400px;
+  
+  position: relative;
+}
+.model-img {
+  width: 20%;
+    position: absolute;
+    top: 25%;
+   
+    left: 40%;;
+  }
+  .glass-selected img {
+    width: 10%;
+    height: auto;
+    position: absolute;
+    top: 44%;
+    right: 45%;
+  }
+  
+  .product-overlay{
+    position: absolute;
+    bottom: 5.5%;
+    background-color: #ffa5006b;
+    width: 20%;
+    left: 40%;
+  }
